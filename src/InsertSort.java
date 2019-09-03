@@ -41,8 +41,16 @@ public class InsertSort {
                 array[j + 1] = array[j];
                 j--;
             }
-            array[j + 1] = key;
+            array[j + 1] = key;     // 核心操作
         }
         return array;
     }
+
+    /**
+     * 分析时间和空间复杂度
+     * 时间复杂度
+     * 最好的情况是O(n) 最坏的情况是 O(n * n)
+     * 空间复杂度O(1)
+     *适用的情况是： 排序的数据量小  小于1000； 或者大致按照一定顺序排列； 不适合数据量比较大的应用；
+     */
 }
