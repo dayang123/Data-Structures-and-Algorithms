@@ -39,9 +39,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinaryTreeSort">
+  <component name="RunManager" selected="Application.BubbleSort">
     <configuration name="BinaryTreeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinaryTreeSort" />
+      <module name="Data-Structures-and-Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BubbleSort" />
       <module name="Data-Structures-and-Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -56,6 +63,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.BinaryTreeSort" />
         <item itemvalue="Application.InsertSort" />
       </list>
