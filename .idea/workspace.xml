@@ -39,14 +39,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DeleteDuplicateNodes">
-    <configuration name="BinaryTreeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinaryTreeSort" />
-      <module name="Data-Structures-and-Algorithms" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.JudgeStringIsNum">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BubbleSort" />
       <module name="Data-Structures-and-Algorithms" />
@@ -56,6 +49,13 @@
     </configuration>
     <configuration name="DeleteDuplicateNodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DeleteDuplicateNodes" />
+      <module name="Data-Structures-and-Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JudgeStringIsNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Offer.JudgeStringIsNum" />
       <module name="Data-Structures-and-Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JudgeStringIsNum" />
         <item itemvalue="Application.DeleteDuplicateNodes" />
         <item itemvalue="Application.NumExponent" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.BinaryTreeSort" />
       </list>
     </recent_temporary>
   </component>
