@@ -39,7 +39,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NumExponent">
+  <component name="RunManager" selected="Application.DeleteDuplicateNodes">
     <configuration name="BinaryTreeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinaryTreeSort" />
       <module name="Data-Structures-and-Algorithms" />
@@ -54,8 +54,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InsertSort" />
+    <configuration name="DeleteDuplicateNodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DeleteDuplicateNodes" />
       <module name="Data-Structures-and-Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeleteDuplicateNodes" />
         <item itemvalue="Application.NumExponent" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.BinaryTreeSort" />
-        <item itemvalue="Application.InsertSort" />
       </list>
     </recent_temporary>
   </component>
