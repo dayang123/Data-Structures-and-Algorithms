@@ -23,6 +23,9 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Offer" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Data-Structures-and-Algorithms\src" />
     </key>
@@ -39,14 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JudgeStringIsNum">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BubbleSort" />
-      <module name="Data-Structures-and-Algorithms" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MakeEvenNumAfterOdd">
     <configuration name="DeleteDuplicateNodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DeleteDuplicateNodes" />
       <module name="Data-Structures-and-Algorithms" />
@@ -56,6 +52,13 @@
     </configuration>
     <configuration name="JudgeStringIsNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Offer.JudgeStringIsNum" />
+      <module name="Data-Structures-and-Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MakeEvenNumAfterOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Offer.MakeEvenNumAfterOdd" />
       <module name="Data-Structures-and-Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MakeEvenNumAfterOdd" />
         <item itemvalue="Application.JudgeStringIsNum" />
         <item itemvalue="Application.DeleteDuplicateNodes" />
         <item itemvalue="Application.NumExponent" />
         <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.BubbleSort" />
       </list>
     </recent_temporary>
   </component>
