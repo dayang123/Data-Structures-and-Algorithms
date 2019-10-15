@@ -25,4 +25,33 @@ public class Reuse {
         }
         System.out.println(" ");
     }
+
+
+     public static LinkNode newUnidirectionalOLinkedList(int size){
+        LinkNode head = new LinkNode(RandomInt(), null);
+        LinkNode next = head;
+         for (int i = 0; i <size ; i++) {
+             next.next = new LinkNode(RandomInt(), null);
+             next = next.next;
+         }
+         return head;
+    }
+
+    public static void traverseLinkedList(LinkNode head, String content) {
+        System.out.println(content);
+        LinkNode next = head;
+        do {
+            System.out.print(next.value + ", ");
+            next = next.next;
+        }while(next.next != null);
+    }
+
+    public static class LinkNode{
+        int value;
+        LinkNode next;
+        LinkNode(int value, LinkNode next) {
+            this.value = value;
+            this.next = next;
+        }
+    }
 }
