@@ -27,7 +27,7 @@ public class Reuse {
     }
 
 
-     public static LinkNode newUnidirectionalOLinkedList(int size){
+     public static LinkNode newUnidirectionalOLinkedList(int size){                     // 生成单向链表
         LinkNode head = new LinkNode(RandomInt(), null);
         LinkNode next = head;
          for (int i = 0; i <size ; i++) {
@@ -37,7 +37,7 @@ public class Reuse {
          return head;
     }
 
-    public static void traverseLinkedList(LinkNode head, String content) {
+    public static void traverseLinkedList(LinkNode head, String content) {               // 遍历单向链表
         System.out.println(content);
         LinkNode next = head;
         do {
