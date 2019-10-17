@@ -37,6 +37,16 @@ public class Reuse {
          return head;
     }
 
+    public static LinkNode newSelfIncreasedLinkedList(int startNum, int size) {
+        LinkNode head = new LinkNode(startNum, null);
+        LinkNode next = head;
+        for (int i = 0; i < size; i++) {
+            next.next = new LinkNode(next.value + RandomInt(), null);
+            next = next.next;
+        }
+        return head;
+    }
+
     public static void traverseLinkedList(LinkNode head, String content) {               // 遍历单向链表
         System.out.println(content);
         LinkNode next = head;
