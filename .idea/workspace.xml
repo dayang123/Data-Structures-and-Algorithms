@@ -1,8 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2c14671-586b-4c47-bfff-f1ba5a4e5f5b" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="f2c14671-586b-4c47-bfff-f1ba5a4e5f5b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Offer/FIndNumInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Offer/Offer39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data-Structures-and-Algorithms/META-INF/Data-Structures-and-Algorithms.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SomeThing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SomeThing.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +40,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1QGyEY0aCvTUpBdqv8BSSndLEFa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -30,26 +62,7 @@
       <recent name="E:\Data-Structures-and-Algorithms\src" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.MakTwoSelfIncreasedLinkedListOne">
-    <configuration name="JudgeStringIsNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Offer.JudgeStringIsNum" />
-      <module name="Data-Structures-and-Algorithms" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Offer39">
     <configuration name="MakTwoSelfIncreasedLinkedListOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Offer.MakTwoSelfIncreasedLinkedListOne" />
       <module name="Data-Structures-and-Algorithms" />
@@ -57,9 +70,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MakeEvenNumAfterOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Offer.MakeEvenNumAfterOdd" />
+    <configuration name="Offer39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Offer.Offer39" />
       <module name="Data-Structures-and-Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -78,15 +97,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Data-Structures-and-Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Offer39" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.MakTwoSelfIncreasedLinkedListOne" />
         <item itemvalue="Application.ReverseLinkedList" />
         <item itemvalue="Application.OutputXLastNumNodeInLinkedLIst" />
-        <item itemvalue="Application.MakeEvenNumAfterOdd" />
-        <item itemvalue="Application.JudgeStringIsNum" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -97,6 +126,36 @@
       <updated>1567411116706</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1750" height="266" key="GridCell.Tab.0.bottom" timestamp="1620188279701">
+      <screen x="0" y="25" width="1792" height="997" />
+    </state>
+    <state width="1750" height="266" key="GridCell.Tab.0.bottom/0.25.1792.997@0.25.1792.997" timestamp="1620188279701" />
+    <state width="1750" height="266" key="GridCell.Tab.0.center" timestamp="1620188279701">
+      <screen x="0" y="25" width="1792" height="997" />
+    </state>
+    <state width="1750" height="266" key="GridCell.Tab.0.center/0.25.1792.997@0.25.1792.997" timestamp="1620188279701" />
+    <state width="1750" height="266" key="GridCell.Tab.0.left" timestamp="1620188279700">
+      <screen x="0" y="25" width="1792" height="997" />
+    </state>
+    <state width="1750" height="266" key="GridCell.Tab.0.left/0.25.1792.997@0.25.1792.997" timestamp="1620188279700" />
+    <state width="1750" height="266" key="GridCell.Tab.0.right" timestamp="1620188279701">
+      <screen x="0" y="25" width="1792" height="997" />
+    </state>
+    <state width="1750" height="266" key="GridCell.Tab.0.right/0.25.1792.997@0.25.1792.997" timestamp="1620188279701" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
