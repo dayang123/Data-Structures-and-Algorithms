@@ -1,3 +1,5 @@
+package Offer;
+
 public class BubbleSort {
 
     /**
@@ -10,7 +12,7 @@ public class BubbleSort {
         Reuse.traversIntArray(bubbleSort(Reuse.newIntArray(10)), "冒泡排序");
     }
 
-    static int[] bubbleSort(int[] intArray) {
+    public static int[] bubbleSort(int[] intArray) {
        for(int i = 1; i < intArray.length; i++) {
            for(int j = 0; j < intArray.length - i; j ++) {
                if(intArray[j] > intArray[j+1]) {

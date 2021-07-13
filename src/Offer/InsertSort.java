@@ -1,3 +1,5 @@
+package Offer;
+
 public class InsertSort {
     public static void main(String[] args) {
         int[] intArray = new int[]{9, 5, 2, 20, 3};
